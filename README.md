@@ -16,5 +16,31 @@ Used Python and natural language processing to perform a meta-analysis on thousa
   9. What are currently the best testing methods for Covid-19?
   10. What are the best current theraputics?
 
-#### Preview
+## Preview
+
+#### Word Cloud gathered from Covid-19 data
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/wordcloud.png)
+
+#### Histogram of asymptomatic cases
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/asymptomatic.png)
+
+
+#### Mask Effectivness
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/mask1.png)
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/mask2.png)
+
+#### Histogram of Reproduction rates
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/r0.png)
+
+
+#### The mortality rates vs school closures
+
+![alt text](https://raw.githubusercontent.com/wintersleepmachine/Covid-19-Meta-Analysis/main/schools.png)
+
+
 
